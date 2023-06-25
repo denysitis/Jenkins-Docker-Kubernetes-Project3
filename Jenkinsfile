@@ -6,7 +6,7 @@ pipeline {
 	
 	environment {
 		PROJECT_ID = 'moonlit-palace-390916'
-                CLUSTER_NAME = 'k8s-cluster'
+                CLUSTER_NAME = 'ks8-cluster'
                 LOCATION = 'us-central1'
                 CREDENTIALS_ID = 'kubernetes'		
 	}
